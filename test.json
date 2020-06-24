@@ -1,0 +1,31 @@
+{
+  "data": {
+    "type": "carousel",
+    "templates": [
+      {
+        "title": "Veggies",
+        "image_url": "https://drive.google.com/file/d/11YnZOV_QpZB2dZe2R2Zkqky-kdEFo84z/view?usp=sharing",
+        "subtitle": "All brands",
+        "buttons": [
+          {
+            "title": "Browse",
+            "type": "postback",
+            "payload": "flow_3A88CFDBFD0240D0A94442D05A6D2513"
+          }
+        ]
+      },
+      {
+        "title": "Computers",
+        "image_url": "https://drive.google.com/file/d/11YnZOV_QpZB2dZe2R2Zkqky-kdEFo84z/view?usp=sharing",
+        "subtitle": "Desktops, Laptops and more",
+        "buttons": [
+          {
+            "title": "Browse",
+            "type": "postback",
+            "payload": "flow_E3B96E58E94C42258B40267CD6AFD522"
+          }
+        ]
+      }
+    ]
+  }
+}
